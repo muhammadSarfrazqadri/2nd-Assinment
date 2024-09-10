@@ -1,18 +1,13 @@
 * {
     margin: 0%;
     padding: 0%;
-    /* background-image: url(asserts/WhatsApp\ Image\ 2024-09-09\ at\ 16.19.47_8fa0f4cd.jpg);
-    background-repeat: no-repeat;
-    background-size: 100%;
-    width: max-content;
-    height: max-content;
-} */
+}
 .main {
     background-image: url(asserts/WhatsApp\ Image\ 2024-09-09\ at\ 16.19.47_8fa0f4cd.jpg);
     background-repeat: no-repeat;
     background-size: 100%;
     width: 90%;
-    height: 530px;
+    height: 550px;
     margin-left: auto;
     margin-right: auto;
 }
@@ -93,6 +88,11 @@ button {
 }
 a {
     text-decoration: none;
+    color: rgb(122, 9, 9);
+    background-color: aliceblue;
+}
+a:hover {
+    background-color: rgb(231, 234, 236);
 }
 button::hover{
     background-color: rgb(231, 234, 236);
