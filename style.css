@@ -1,0 +1,99 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    /* background-image: url(asserts/WhatsApp\ Image\ 2024-09-09\ at\ 16.19.47_8fa0f4cd.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: max-content;
+    height: max-content;
+} */
+.main {
+    background-image: url(asserts/WhatsApp\ Image\ 2024-09-09\ at\ 16.19.47_8fa0f4cd.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 90%;
+    height: 530px;
+    margin-left: auto;
+    margin-right: auto;
+}
+div {
+    text-transform: capitalize;
+    padding: 10px;
+}
+.first {
+    text-transform: uppercase;
+    background:none;
+    text-align: center;
+    font-weight: bold;
+    color: rgb(122, 9, 9);
+    padding: 45px;
+    margin-top: 20px;
+    font-family: Arial, Helvetica, sans-serif;line-height: 16.5px;
+    font-size: larger;
+}
+.second  {
+    text-transform: capitalize;
+    background: none;
+    text-align: center;
+    /* font-weight: bold; */
+    color: rgb(122, 9, 9);
+    padding: 2px;
+    font-family: serif;
+    line-height: 64.5px;
+    font-size: 69px;
+}
+.third  {
+    text-transform: uppercase;
+    background: none;
+    text-align: center;
+    padding: 25px;
+    font-family: system-ui;
+    line-height: 26.5px;
+    font-size: 20px;
+}
+.button  {
+    text-transform: uppercase;
+    background: none;
+    width: max-content;
+    height: max-content;
+    background-color: aliceblue;
+    border-radius: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    /* font-weight: bold; */
+    color: rgb(122, 9, 9);
+    padding: 1%;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 16.5px;
+    font-size: 14px;
+    padding-left: 24px;
+    padding-right: 24px;
+}
+.button:hover {
+    background-color: rgb(231, 234, 236);
+}
+img {
+    width: 20px;
+    height: 20px;
+    padding: 10px;
+    background: none;
+    color: rgb(122, 9, 9);
+}
+.image {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding: 15px;
+    background: none;
+    color: rgb(122, 9, 9);
+}
+button {
+    border-style:none;
+}
+a {
+    text-decoration: none;
+}
+button::hover{
+    background-color: rgb(231, 234, 236);
+}
